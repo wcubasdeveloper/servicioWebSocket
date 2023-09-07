@@ -1,0 +1,15 @@
+{
+  "name": "socketioserver",
+  "version": "1.0.0",
+  "description": "servidor web socket para controlar a los clientes de ATUTAXI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "WIlliam Cubas Alegria",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  }
+}
